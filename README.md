@@ -25,7 +25,7 @@ The data cleaning process was done using Excel and Power Query.
 
 ![PT DB](https://github.com/user-attachments/assets/e425ff06-e38e-46ab-8387-e94b1e55f57e)
 
-![DB](https://github.com/user-attachments/assets/d00beaa1-2632-4a04-8223-d6465d480b3a)
+<img width="751" height="393" alt="DE DB 1" src="https://github.com/user-attachments/assets/dca05ab2-3165-4ffd-9b60-ac7416226b36" />
 
 ## Further Analysis with Pivot Tables
 
